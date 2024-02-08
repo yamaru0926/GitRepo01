@@ -1,6 +1,5 @@
 // File : .\Controller.h
 //
-//
 #ifndef __Controller
 #define __Controller
 //
